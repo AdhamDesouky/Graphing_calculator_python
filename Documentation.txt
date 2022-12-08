@@ -1,0 +1,17 @@
+Team:
+Abdelrahman Saleh Mohamed -- Team leader -- 211000536
+Adham Ahmed Desouky -- 211001631
+Kareem Mohamed Aldabaa -- 211001733
+
+Project z is mainly based on the idea of famous graphing calculators as geogebra, we tried to make something as close as we could to geogebra with as limited resources and info that we had.
+The project is divided into 3 main sections:
+1-The layout and the canvas -- Adham 
+2-The backend and graphing -- Abdelrahman
+3-The calculator -- Kareem
+
+----------------------------------------------
+Adham mainly did the layout (frontend) and drew the lines on the canvas creating functions: main_canvas() and the majority of the buttons and their functions
+Abdelrahman did the main function responsible for the drawing: drawing() and the functions of most of the buttons plus motion() and click() functions + history list and its buttons plus the active on display list
+Kareem mainly did the external calculator plus some of the functions of the buttons 
+----------------------------------------------
+The app might have a lot of bugs but we did our best wallahy :)
